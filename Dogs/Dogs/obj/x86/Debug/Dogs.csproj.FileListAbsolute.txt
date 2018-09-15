@@ -1,0 +1,2 @@
+/Users/qjcbq2/Projects/Dogs/Dogs/obj/x86/Debug/Dogs.csprojAssemblyReference.cache
+/Users/qjcbq2/Projects/Dogs/Dogs/obj/x86/Debug/Dogs.csproj.CoreCompileInputs.cache
